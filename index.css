@@ -67,5 +67,5 @@ body {
   transition: 0.5s;
 }
 .checkbox:checked::after {
-  background: #d7d7d7;
+  background: #ffff;
 }
