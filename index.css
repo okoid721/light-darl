@@ -7,7 +7,7 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
-  background-color: #2b2b2b;
+  background: #2b2b2b;
 }
 .checkbox {
   height: 160px;
